@@ -1,0 +1,4 @@
+requests>=2.31.0        # 用于HTTP请求（天气API、股票数据等）
+dashscope>=1.14.0       # 阿里云DashScope SDK（调用通义千问模型）
+akshare>=1.12.30        # 财经数据接口（获取股票实时行情）
+python-dateutil>=2.8.2  # 日期时间工具库（隐式依赖项）
